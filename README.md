@@ -1,5 +1,6 @@
-### Welcome to the mess that is my personal github!
+### hello
 
 Feel free to grab a seat.
 
 - I'm a Undergraduate Computer Science student at UFPR.
+- Something impactful here
