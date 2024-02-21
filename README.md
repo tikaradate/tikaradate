@@ -2,5 +2,6 @@
 
 Feel free to grab a seat.
 
-- I'm a Undergraduate Computer Science student at UFPR.
+- I have a Bachelor's Degree in Computer Science from UFPR
+- Interested in low level programming
 - Something impactful here
